@@ -1,7 +1,7 @@
 # Stone.js - Starters
 
 [![License: MIT](https://img.shields.io/npm/l/@stone-js/starters)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/maintenance/yes/2025)](https://stonejs.dev)
+[![Maintenance](https://img.shields.io/maintenance/yes/2026)](https://stonejs.dev)
 [![Used by Stone CLI](https://img.shields.io/badge/Used%20by-Stone%20CLI-blue)](https://github.com/stone-foundation/stone-js-cli)
 
 This repository contains official **starter templates** for Stone.js applications.

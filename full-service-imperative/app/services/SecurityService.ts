@@ -1,4 +1,4 @@
-import bcrypt from 'bcrypt'
+import bcrypt from 'bcryptjs'
 import jwt from 'jsonwebtoken'
 import { ISessionService } from './contracts/ISessionService'
 import { ISecurityService } from './contracts/ISecurityService'

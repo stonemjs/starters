@@ -6,7 +6,7 @@ import { defineConfig } from '@stone-js/cli'
 export default defineConfig({
   rollup: {
     bundle: {
-      external: ['@libsql/client', 'bcrypt'],
+      external: ['@libsql/client'],
     }
   }
 })
